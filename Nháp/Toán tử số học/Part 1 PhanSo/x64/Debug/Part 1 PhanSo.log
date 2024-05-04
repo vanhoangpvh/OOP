@@ -1,0 +1,8 @@
+﻿  Part1.cpp
+D:\Học kì 2 năm 2\Code OOP\Nháp\Toán tử số học\Part 1 PhanSo\Part1.cpp(148,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Học kì 2 năm 2\Code OOP\Nháp\Toán tử số học\Part 1 PhanSo\Part1.cpp(149,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Học kì 2 năm 2\Code OOP\Nháp\Toán tử số học\Part 1 PhanSo\Part1.cpp(86): warning C4172: returning address of local variable or temporary: temp
+D:\Học kì 2 năm 2\Code OOP\Nháp\Toán tử số học\Part 1 PhanSo\Part1.cpp(93): warning C4172: returning address of local variable or temporary: temp
+D:\Học kì 2 năm 2\Code OOP\Nháp\Toán tử số học\Part 1 PhanSo\Part1.cpp(100): warning C4172: returning address of local variable or temporary: temp
+D:\Học kì 2 năm 2\Code OOP\Nháp\Toán tử số học\Part 1 PhanSo\Part1.cpp(107): warning C4172: returning address of local variable or temporary: temp
+  Part 1 PhanSo.vcxproj -> D:\Học kì 2 năm 2\Code OOP\Nháp\Toán tử số học\x64\Debug\Part 1 PhanSo.exe
