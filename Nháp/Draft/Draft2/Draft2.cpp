@@ -99,7 +99,7 @@ void Professor::addStudent(Student* stu) {
 }
 
 void Student::display() {
-	cout << "ID: " << id << endl;
+	cout << "ID: " << id << endl; 
 	cout << "Name: " << name << endl;
 	cout << "List professors that student enrolls:" << endl;
 	for (Professor* element : list_professors) {
