@@ -1,0 +1,3 @@
+﻿  KMeans.cpp
+D:\Học kì 2 năm 2\OOP\Nháp\Draft\KMeans\KMeans.cpp(58,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  KMeans.vcxproj -> D:\Học kì 2 năm 2\OOP\Nháp\Draft\x64\Debug\KMeans.exe
